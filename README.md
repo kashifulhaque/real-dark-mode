@@ -1,5 +1,10 @@
 # real-dark-mode
 
+### Demo (Works better with Mouse, touch not supported, might have to double tap)
+> https://pitchdark.now.sh
+
+![](src/demo/dark.gif)
+
 ## Project setup
 ```
 yarn install
