@@ -1,4 +1,4 @@
-# real-dark-mode
+# True dark theme!
 
 ### CREDIT
 Credit where credit is due. This is not my idea and not even my code. I found this on reddit and somehow to forget the link to that post
