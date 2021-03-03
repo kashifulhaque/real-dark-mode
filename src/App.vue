@@ -62,7 +62,7 @@ export default {
 </script>
 
 <style>
-@import url("https://fonts.googleapis.com/css2?family=Major+Mono+Display&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
 * {
   margin: 0;
@@ -87,11 +87,11 @@ body {
 }
 
 h1 {
-  font-family: "Major Mono Display", monospace;
+  font-family: 'Poppins', sans-serif;
 }
 
 p {
-  font-family: "Major Mono Display", monospace;
+  font-family: 'Poppins', sans-serif;
 }
 
 .overlay {
